@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "824139BA1D2E6D710025DBEC"
+               BlueprintIdentifier = "571649BD1ACF0CA900F8CFE9"
                BuildableName = "MemeMe.app"
                BlueprintName = "MemeMe"
                ReferencedContainer = "container:MemeMe.xcodeproj">
@@ -28,11 +28,21 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "571649D21ACF0CA900F8CFE9"
+               BuildableName = "MemeMeTests.xctest"
+               BlueprintName = "MemeMeTests"
+               ReferencedContainer = "container:MemeMe.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "824139BA1D2E6D710025DBEC"
+            BlueprintIdentifier = "571649BD1ACF0CA900F8CFE9"
             BuildableName = "MemeMe.app"
             BlueprintName = "MemeMe"
             ReferencedContainer = "container:MemeMe.xcodeproj">
@@ -55,7 +65,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "824139BA1D2E6D710025DBEC"
+            BlueprintIdentifier = "571649BD1ACF0CA900F8CFE9"
             BuildableName = "MemeMe.app"
             BlueprintName = "MemeMe"
             ReferencedContainer = "container:MemeMe.xcodeproj">
@@ -74,7 +84,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "824139BA1D2E6D710025DBEC"
+            BlueprintIdentifier = "571649BD1ACF0CA900F8CFE9"
             BuildableName = "MemeMe.app"
             BlueprintName = "MemeMe"
             ReferencedContainer = "container:MemeMe.xcodeproj">
