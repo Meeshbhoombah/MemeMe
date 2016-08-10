@@ -2,9 +2,6 @@
 //  SingleMemeViewController.swift
 //  MemeMe
 //
-//  Created by Brian Moriarty on 4/6/15.
-//  Copyright (c) 2015 Brian Moriarty. All rights reserved.
-//
 
 import UIKit
 
